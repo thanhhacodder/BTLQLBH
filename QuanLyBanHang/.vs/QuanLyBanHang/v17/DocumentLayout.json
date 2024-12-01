@@ -1,0 +1,590 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\banhang.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\banhang.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\loaisanpham1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\loaisanpham1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\model\\donhangviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\model\\donhangviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|c:\\users\\hadep\\source\\repos\\baitaplon\\quanlybanhang\\quanlybanhang\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\loaisanpham1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\loaisanpham1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\sanpham1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\sanpham1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\sanpham1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\sanpham1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\donhang.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\donhang.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\dangnhap.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\dangnhap.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\banhang.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\banhang.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\dangnhap.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\dangnhap.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\model\\sanphamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\model\\sanphamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\donhang.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\donhang.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\images\\user.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\images\\user.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\images\\user-yellow.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\images\\user-yellow.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\images\\tinhtien.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\images\\tinhtien.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\images\\kinhlup.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\images\\kinhlup.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\images\\x-yellow.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\images\\x-yellow.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\images\\username.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\images\\username.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\images\\icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\images\\icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadep\\source\\repos\\baitaplon\\QLBH.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\images\\search-yellow.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\images\\search-yellow.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\images\\plus-yellow.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\images\\plus-yellow.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\images\\money.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\images\\money.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\images\\login.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\images\\login.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\images\\home-yellow.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\images\\home-yellow.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\images\\key-yellow.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\images\\key-yellow.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\images\\new.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\images\\new.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\images\\password.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\images\\password.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\quanlybanhang\\images\\check-yellow.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5F592ADB-8379-4E6B-9F34-D1E68FEDEE46}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\images\\check-yellow.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\packages.config",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\packages.config",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\packages.config",
+              "RelativeToolTip": "QuanLyBanHang\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-28T14:58:24.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BanHang.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\BanHang.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\BanHang.xaml.cs",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\BanHang.xaml.cs",
+              "RelativeToolTip": "QuanLyBanHang\\BanHang.xaml.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAawJUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:43:42.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Model.edmx",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Model.edmx",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Model.edmx [Diagram1]",
+              "RelativeToolTip": "QuanLyBanHang\\Model.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-28T15:06:06.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoaiSanPham1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\LoaiSanPham1.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\LoaiSanPham1.xaml.cs",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\LoaiSanPham1.xaml.cs",
+              "RelativeToolTip": "QuanLyBanHang\\LoaiSanPham1.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T00:45:42.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoaiSanPham1.xaml",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\LoaiSanPham1.xaml",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\LoaiSanPham1.xaml",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\LoaiSanPham1.xaml",
+              "RelativeToolTip": "QuanLyBanHang\\LoaiSanPham1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T15:02:15.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\README.md",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\README.md",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\README.md",
+              "RelativeToolTip": "QuanLyBanHang\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-11-29T08:43:44.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SanPham1.xaml",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\SanPham1.xaml",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\SanPham1.xaml",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\SanPham1.xaml",
+              "RelativeToolTip": "QuanLyBanHang\\SanPham1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T09:52:39.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DonHangViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Model\\DonHangViewModel.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Model\\DonHangViewModel.cs",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Model\\DonHangViewModel.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Model\\DonHangViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:58:51.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\MainWindow.xaml.cs",
+              "RelativeToolTip": "QuanLyBanHang\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T00:39:19.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\MainWindow.xaml",
+              "RelativeToolTip": "QuanLyBanHang\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T15:05:57.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DangNhap.xaml",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\DangNhap.xaml",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\DangNhap.xaml",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\DangNhap.xaml",
+              "RelativeToolTip": "QuanLyBanHang\\DangNhap.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T09:51:58.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DonHang.xaml",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\DonHang.xaml",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\DonHang.xaml",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\DonHang.xaml",
+              "RelativeToolTip": "QuanLyBanHang\\DonHang.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T14:55:36.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SanPham1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\SanPham1.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\SanPham1.xaml.cs",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\SanPham1.xaml.cs",
+              "RelativeToolTip": "QuanLyBanHang\\SanPham1.xaml.cs",
+              "ViewState": "AgIAAL8CAAAAAAAAAAApwNECAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:34:02.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BanHang.xaml",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\BanHang.xaml",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\BanHang.xaml",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\BanHang.xaml",
+              "RelativeToolTip": "QuanLyBanHang\\BanHang.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T09:40:22.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DangNhap.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\DangNhap.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\DangNhap.xaml.cs",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\DangNhap.xaml.cs",
+              "RelativeToolTip": "QuanLyBanHang\\DangNhap.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAIAzwDUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:43:09.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\App.xaml",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\App.xaml",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\App.xaml",
+              "RelativeToolTip": "QuanLyBanHang\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T15:40:47.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DonHang.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\DonHang.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\DonHang.xaml.cs",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\DonHang.xaml.cs",
+              "RelativeToolTip": "QuanLyBanHang\\DonHang.xaml.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAuwDcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:27:38.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "user.png -  [English (United States)] - PNG [64x64, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\user.png",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Images\\user.png",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\user.png -  [English (United States)] - PNG [64x64, 32 bit, PNG]",
+              "RelativeToolTip": "QuanLyBanHang\\Images\\user.png -  [English (United States)] - PNG [64x64, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-29T14:44:51.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\App.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\App.xaml.cs",
+              "RelativeToolTip": "QuanLyBanHang\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:47:22.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SanPhamViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Model\\SanPhamViewModel.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Model\\SanPhamViewModel.cs",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Model\\SanPhamViewModel.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Model\\SanPhamViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:58:52.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "kinhlup.png -  [English (United States)] - PNG [128x128, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\kinhlup.png",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Images\\kinhlup.png",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\kinhlup.png -  [English (United States)] - PNG [128x128, 32 bit, PNG]",
+              "RelativeToolTip": "QuanLyBanHang\\Images\\kinhlup.png -  [English (United States)] - PNG [128x128, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-28T14:58:39.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User-Yellow.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\User-Yellow.png",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Images\\User-Yellow.png",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\User-Yellow.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "QuanLyBanHang\\Images\\User-Yellow.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-29T15:46:37.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "icon.ico -  [English (United States)] - Icon [128x128, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\icon.ico",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Images\\icon.ico",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\icon.ico -  [English (United States)] - Icon [128x128, 32 bit, BMP]",
+              "RelativeToolTip": "QuanLyBanHang\\Images\\icon.ico -  [English (United States)] - Icon [128x128, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-11-28T14:58:41.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "QLBH.sql",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QLBH.sql",
+              "RelativeDocumentMoniker": "..\\QLBH.sql",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QLBH.sql",
+              "RelativeToolTip": "..\\QLBH.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-28T17:03:37.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "tinhtien.png -  [English (United States)] - PNG [128x128, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\tinhtien.png",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Images\\tinhtien.png",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\tinhtien.png -  [English (United States)] - PNG [128x128, 32 bit, PNG]",
+              "RelativeToolTip": "QuanLyBanHang\\Images\\tinhtien.png -  [English (United States)] - PNG [128x128, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-29T15:46:34.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "X-Yellow.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\X-Yellow.png",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Images\\X-Yellow.png",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\X-Yellow.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "QuanLyBanHang\\Images\\X-Yellow.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-29T14:44:54.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\App.config",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\App.config",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\App.config",
+              "RelativeToolTip": "QuanLyBanHang\\App.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-28T09:43:03.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserName.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\UserName.png",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Images\\UserName.png",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\UserName.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "QuanLyBanHang\\Images\\UserName.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-28T15:41:18.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Search-Yellow.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\Search-Yellow.png",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Images\\Search-Yellow.png",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\Search-Yellow.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "QuanLyBanHang\\Images\\Search-Yellow.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-28T14:58:48.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Plus-Yellow.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\Plus-Yellow.png",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Images\\Plus-Yellow.png",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\Plus-Yellow.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "QuanLyBanHang\\Images\\Plus-Yellow.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-28T14:58:47.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Home-Yellow.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\Home-Yellow.png",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Images\\Home-Yellow.png",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\Home-Yellow.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "QuanLyBanHang\\Images\\Home-Yellow.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-28T14:58:42.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Key-Yellow.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\Key-Yellow.png",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Images\\Key-Yellow.png",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\Key-Yellow.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "QuanLyBanHang\\Images\\Key-Yellow.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-28T14:58:40.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "login.png -  [English (United States)] - PNG [32x32, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\login.png",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Images\\login.png",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\login.png -  [English (United States)] - PNG [32x32, 32 bit, PNG]",
+              "RelativeToolTip": "QuanLyBanHang\\Images\\login.png -  [English (United States)] - PNG [32x32, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-28T14:58:38.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "money.png -  [English (United States)] - PNG [128x128, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\money.png",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Images\\money.png",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\money.png -  [English (United States)] - PNG [128x128, 32 bit, PNG]",
+              "RelativeToolTip": "QuanLyBanHang\\Images\\money.png -  [English (United States)] - PNG [128x128, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-28T14:58:36.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "new.png -  [English (United States)] - PNG [128x128, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\new.png",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Images\\new.png",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\new.png -  [English (United States)] - PNG [128x128, 32 bit, PNG]",
+              "RelativeToolTip": "QuanLyBanHang\\Images\\new.png -  [English (United States)] - PNG [128x128, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-28T14:58:34.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Password.png -  [English (United States)] - PNG [268x267, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\Password.png",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Images\\Password.png",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\Password.png -  [English (United States)] - PNG [268x267, 32 bit, PNG]",
+              "RelativeToolTip": "QuanLyBanHang\\Images\\Password.png -  [English (United States)] - PNG [268x267, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-28T14:58:33.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Check-Yellow.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\Check-Yellow.png",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Images\\Check-Yellow.png",
+              "ToolTip": "C:\\Users\\hadep\\source\\repos\\baitaplon\\QuanLyBanHang\\QuanLyBanHang\\Images\\Check-Yellow.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "QuanLyBanHang\\Images\\Check-Yellow.png -  [English (United States)] - PNG [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-28T14:38:26.752Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
